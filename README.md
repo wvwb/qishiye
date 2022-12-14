@@ -3,7 +3,7 @@
 一个简约的起始页
 </p>
 
-![Snavigation.png](https://s2.loli.net/2022/07/15/FE6U2BJCynHDep8.jpg)
+![Snavigation.png](zanding)
 
 >尚未完成
 
